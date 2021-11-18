@@ -1,3 +1,5 @@
 # Dance with Stacy
 
-<img src=“”>
+<img src=“home”>
+
+<img src=“rickroll”>

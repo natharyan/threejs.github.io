@@ -49,6 +49,7 @@ body {
     align-items: center;
     flex-wrap: wrap;
     animation: anim 5s linear infinite;
+    font-weight: 200
 }
 .frame2 {
     top: 10;
